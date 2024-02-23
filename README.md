@@ -12,7 +12,7 @@ _ Watch this walk through video:  https://youtu.be/P2Y9W29kcjs
 
 - [ ] Create a forked copy of this project.
 - [ ] Add PM as collaborator on Github.
-- [ ] Clone your OWN version of the repository (Not Lambda's by mistake!).
+- [ ] Clone your OWN version of the repository.
 - [ ] Create a new branch on the clone: `git checkout -b <firstName-lastName>`.
 - [ ] Implement the project on the `<firstName-lastName>` branch, committing changes regularly.
 - [ ] Push commits: `git push origin <firstName-lastName>`.
